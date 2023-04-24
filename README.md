@@ -1,6 +1,6 @@
 # README - Simple Shooter Tank Game
 
-![In-game gif](ingamegif.gif)
+![In-game gif](ingamegif1.gif)
 
 This README file provides an overview of a simple shooter tank game developed using Unreal Engine 5. It describes the game mechanics, features, and what the developer learned from the project.
 
