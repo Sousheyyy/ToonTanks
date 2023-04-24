@@ -31,8 +31,3 @@ Developing this game provided valuable experience and knowledge, including:
 - **Unreal Engine 5:** The developer gained experience using Unreal Engine 5 and its various features, including the editor, blueprints, and asset management.
 - **Game Mechanics:** The developer learned about developing basic game mechanics, such as player movement, camera controls, enemy AI, particle effects, scripting.
 - **Sound Design:** The developer learned about sound design and how to create and implement sound effects in a game.
-
-## Conclusion
-
-The simple shooter tank game developed using Unreal Engine 5 is a basic 3D game that includes player-controlled tank movement, shooting, and enemy towers. The game features multiple levels, simple AI, and sound effects. Developing this game provided the developer with valuable experience using Unreal Engine 5, game mechanics and sound design.
-All the assets were provided by Unreal Engine C++ Developer: Learn C++ and Make Video Games course on Udemy
